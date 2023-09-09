@@ -1,0 +1,201 @@
+.project1{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    height:100vh;
+    width:100vw;
+}
+.item{
+    height: 100vh;
+    width:100vw;
+}
+.leftup{
+    background-color:#FFCD9E;
+    width: 1440px;
+    height: 800px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.boxh{
+    position:absolute;
+    width: 562px;
+    height: 108px;
+    top: 120px;
+    left: 126px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.boxc{
+    position:absolute;
+    width: 430px;
+    height: 81px;
+    top: 250px;
+    left: 126px;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.box1{
+    position:absolute;
+    border: 5px black;
+    display: flex;
+    flex-direction: column;
+    width: 575px;
+    height: 300px;
+    top:2px;
+    bottom:100px;
+    left:700px;
+    right: 100px;
+    padding: 70.39522552490234px 70.60975646972656px 50.15494537353516px 71.86988830566406px;
+
+}
+.box2{
+    position:absolute;
+    width: 227px;
+    height: 81px;
+    top: 375px;
+    left: 126px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left
+}
+.txt{
+    position:absolute;
+    width: 344px;
+height: 51px;
+top: 479px;
+left: 125px;
+padding-top: 50px;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFF; 
+}
+.inp #email{
+    position: absolute;
+    top: 425px;
+    width:344px;
+    height: 54px;
+    background-color: #FFF;
+    border-radius: 8px;
+    border: 4px solid #000;
+    text-indent: 22px;
+    color: #888;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    margin-left: 7rem;
+    margin-top: 15px;
+}
+.inp button{
+    position: absolute;
+    left: 490px;
+    top: 425px;
+    width: 225px;
+    height: 64px;
+    margin-top: 15px;
+    background-color: #282828;
+    color: #FFFF;
+    border-radius: 8px;
+    border: 4px solid #000;
+    margin-right: auto;
+    line-height: 42.2px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.below{
+    position:absolute;
+    background-color: #282828;
+    width: 1440px;
+    height: 238px;
+    top: 630px;
+}
+.bleft{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.bleft p {
+    color: #FFF;
+    width: auto;
+    height: 1px;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    margin-left: 171px;
+}
+.bright{
+    display: flex;
+    flex-direction: column;
+    margin-right: 173px;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.bright p{
+    position: absolute;
+    height: 15px;
+    width: 20px;
+    color: #FFF;
+    text-align: right;
+    font-size: 17px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    width: auto;
+}
+#b1{
+    width: auto;
+    height: 160px;
+}
+#b2{
+    width: auto;
+    height: 130px;
+}
+.bitem{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: 27.58px;
+}
+.bitem #bitem1{
+    width: auto;
+    height: 95px;
+    margin-right: 40.19px;
+}
+.bitem #bitem2{
+    width: auto;
+    height: 95px;
+}
+ #bitem3{
+    width: auto;
+    height: 60px;
+}
+ #bitem4{
+    width:auto;
+    height:30px
+}
+
+
+
